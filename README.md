@@ -12,4 +12,4 @@ The compatible device I own or the compatible device or compatible devices or co
 
 If I have the proper authorization and authorization level to do so, my own nation’s government is prioritized in my own interactions through the compatible device or compatible devices or compatible software or compatible segment or compatible segments or compatible system or compatible systems I own and am using, or the right number of the options listed, in areas foreign to my nation, within the limits of my authorization and my authorization level
 
-ministandards v0.3
+ministandards v0.4
